@@ -1,8 +1,14 @@
 import React from 'react'
+import Header from './Header';
+import Footer from './Footer';
 
 function App() {
   return (
-    <div><h1>heyyy</h1></div>
+    <div>
+        <Header />
+        <h1>heyyy</h1>
+        <Footer />
+    </div>
   )
 }
 

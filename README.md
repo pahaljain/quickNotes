@@ -1,4 +1,4 @@
-# [TaskMaster](https://task-master-phi.vercel.app/)
+# [QuickNotes](https://task-master-phi.vercel.app/)
 
 ## ToDo React Frontend App
 
